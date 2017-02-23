@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6934a359-f007-4d70-b8d6-a3993d972e1e" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/compass-git/images/logo/a1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/compass-git/images/logo/a1_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/compass-git/images/logo/a1_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/compass-git/images/logo/a2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/compass-git/images/logo/a3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/compass-git/images/logo/a4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/compass-git/images/logo/a5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/compass-git/images/logo/a6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/compass-git/images/logo/a7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/compass-git/images/logo/a8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/compass-git/images/logo/a9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/compass_library.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/compass-git/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/compass-git/sass/_icon.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/compass-git/sass/_mixin.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/compass-git/sass/_mui.min.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/compass-git/sass/_veraibles.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/compass-git/sass/common.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/compass-git/sass/me.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/compass-git/index.html" afterPath="$PROJECT_DIR$/compass-git/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -41,8 +23,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/compass-git/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+            <state relative-caret-position="240">
+              <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -341,15 +323,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1487812186441</updated>
-      <workItem from="1487812187664" duration="5209000" />
+      <workItem from="1487812187664" duration="5633000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5209000" />
+    <option name="totallyTimeSpent" value="5633000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1872" height="1096" extended-state="7" />
+    <frame x="-8" y="-8" width="1872" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17284624" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -520,8 +502,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/compass-git/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        <state relative-caret-position="240">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
           <folding />
         </state>
       </provider>
