@@ -1,0 +1,58 @@
+@charset "UTF-8";
+/*
+  *引入必须的模块mixin
+  *引入全局的global
+  *引入compass
+*/
+/*模块化代码*/
+/* line 4, ../sass/_mixin.scss */
+.g-index .lay_clear {
+  display: block;
+  content: "";
+  clear: both;
+  overflow: hidden;
+  zoom: 1;
+}
+/* line 11, ../sass/_mixin.scss */
+.g-index .lay_left {
+  float: left;
+}
+/* line 14, ../sass/_mixin.scss */
+.g-index .lay_right {
+  float: right;
+}
+/* line 17, ../sass/_mixin.scss */
+.g-index .lay_width {
+  min-width: 320px;
+  max-width: 750px;
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+}
+
+/* line 18, ../sass/me.scss */
+.g-header {
+  width: 100%;
+  height: 300px;
+  background: #f00;
+  color: #00f;
+  font-size: 30px;
+}
+
+/* line 21, ../sass/me.scss */
+.g-main {
+  width: 100%;
+  height: 300px;
+  background: #faa;
+  color: #ccc;
+  font-size: 30px;
+}
+
+/* line 24, ../sass/me.scss */
+.g-footer {
+  width: 100%;
+  height: 300px;
+  background: #0f0;
+  color: #fad;
+  font-size: 30px;
+}

@@ -1,0 +1,12 @@
+/*
+  *雪碧合成图
+  *$logo-sprite-dimensions:true;添加图片的宽高
+  *$disable-magic-sprite-selectors:true;关闭img_active
+  *$logo-layout:smart;雪碧图的布局
+*/
+@import 'compass';
+@import "logo/*.png";
+@include all-logo-sprites();
+.main-logo{
+  @include logo-sprite("a7")
+}
